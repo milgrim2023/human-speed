@@ -1,17 +1,23 @@
 # Site settings
-title: Human-Speed
+title: Human Speed
 description: >
-  Human speed is about truly experiencing the world around you. Walking and cycling 
+  Human speed is about truly experiencing the world around you. Walking, sailing and cycling 
   let you see, hear, and feel a place in a way that driving never can. These slower 
   methods of travel give you time to notice details - the way light hits a tree, the 
-  sounds of a neighborhood, the texture of a landscape.<br>
+  sounds of a neighborhood, the texture of the ocean.<br><br>
   Public transit like trains and buses can also offer a more concious way to travel, 
   letting you take in the scenery without the stress of driving. Cars, by contrast, 
   trap you in a bubble of constant attention, forcing you to focus on the road instead 
   of the world passing by. For bystanders they create noise and traffic that disconnect 
-  us from our enjoyment of the environment.<br>
+  us from our enjoyment of the environment.<br><br>
   This website shares stories of travel at a human pace, hoping to show that the journey 
   can be just as important as the destination.
+
+short_description: >
+  Human speed is about truly experiencing the world around you. Walking, sailing and cycling 
+  let you see, hear, and feel a place in a way that driving never can. These slower 
+  methods of travel give you time to notice details - the way light hits a tree, the 
+  sounds of a neighborhood, the texture of the ocean.
 
 url: 'https://www.human-speed.org/'
 
