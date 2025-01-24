@@ -2,25 +2,30 @@
 title: Human-Speed
 description: >
   Human speed is that which allows the appreciation of scenery, environment and nature. 
-  In both sight and sound. Corresponding methods of movement include, primarily, walking 
-  and cycling, but also to a lesser extent trains and buse whose which still allow 
-  conteplation of the outside and efficency of travel reduce noise. 
-  Cars require too much mental concentration and the low efficency (low number of people 
-  per car) leads large nubmers of vehicles which generate exeptional levels of noise. </br></br>  
-  This website documents the author's travels, hoping to encourage others to travel at human speed"
+  In both sight and sound. Corresponding methods of movement include walking 
+  and cycling primarily, but also to a lesser extent trains and buses which still allow 
+  conteplation of the outside, and the efficency of travel can reduce environmental noise pollution. 
+  Cars require far too much mental concentration and the low passenger efficency leads large nubmers 
+  of vehicles which generate exeptional levels of noise. </br></br>  
+  This website documents the author's travels, hoping to encourage others to travel at human speed
+
 url: 'https://www.human-speed.org/'
+
 baseurl: ''
 
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
+
 disable_landing_page: true
 
 author:
   name: 'Steve Bannister'
   email: steve.bannister@hey.com
   mastodon: milgrim@mas.to
-  github_username: milgrim2023
+#  github_username: milgrim2023
   instagram: bikebadger
+  strava: 298004
+  komoot: 4139383193904
 
 defaults:
   -

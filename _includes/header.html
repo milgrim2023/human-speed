@@ -26,6 +26,13 @@
             </ul>
           </nav>
 
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/about" title="About"
+                  class="posts-button">About</a></li>
+            </ul>
+          </nav>
+          
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
 
@@ -39,6 +46,28 @@
                 </a>
               </li>
               {% endif %}
+
+              {% if site.author.strava %}
+              <script src="https://kit.fontawesome.com/87362795ee.js" crossorigin="anonymous"></script>
+              <!-- strava -->
+              <li class="navigation__item">
+                <a href="https://www.strava.com/athletes/{{ site.author.strava }}" title="{{ site.author.strava }} on Strava" target="_blank">
+                  <i class="fa-brands fa-strava"></i>
+                  <span class="label">Strava</span>
+                </a>
+              </li>
+              {% endif %}              
+
+              {% if site.author.komoot %}
+              <script src="https://kit.fontawesome.com/87362795ee.js" crossorigin="anonymous"></script>
+              <!-- komoot -->
+              <li class="navigation__item">
+                <a href="https://komoot.com/user/{{ site.author.komoot }}" title="{{ site.author.komoot }} on komoot" target="_blank">
+                  <img src="{{ site.baseurl }}/images/favicons/komoot-64x64.png" height="16" width="16">
+                  <span class="label">Komoot</span>
+                </a>
+              </li>
+              {% endif %}           
 
               {% if site.author.instagram %}
               <script src="https://kit.fontawesome.com/87362795ee.js" crossorigin="anonymous"></script>
