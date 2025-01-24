@@ -7,7 +7,7 @@ categories: news
 
 Welcome to the new website. It's currently under construction but I hope to start posting properly, around the end of February when I take early retirement. For now it's about getting used to [Jekyll][jekyll-jkl] and [Github Pages][jekyll-gh]
 
-![](/images/cover.jpg)
+![]({{ site.baseurl }}/images/cover.jpg)
 
 
 [jekyll-jkl]: https://jekyllrb.com/
