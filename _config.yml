@@ -49,4 +49,4 @@ kramdown:
 
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'docker-compose.yml', 'humans.txt']
+exclude: ['README.md', 'Gemfile', 'vendor', 'Gemfile.lock', 'screenshot.png', 'docker-compose.yml', 'humans.txt']
