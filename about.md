@@ -17,7 +17,9 @@ permalink: /about.html
 
 Cambridge, UK-based software guy - always interested in technology and until recently, leading the Camera team at Amazon/Ring. I'm frequently found on the <a href="https://en.wikipedia.org/wiki/Isle_of_Wight">Isle of Wight</a>, on our small yacht, riding the great trails and paths on the island, or in the great bars and restaurants of <a href="https://en.wikipedia.org/wiki/Cowes">Cowes</a>.
 
+Partner to a wonderful wife, father of two great kids and owner of a beautiful but naughty Toller dog. 
 
 
-<a rel="me" href="https://mas.to/@milgrim">Mastodon</a> 
+
+
  
