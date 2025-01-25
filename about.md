@@ -7,6 +7,8 @@ permalink: /about.html
 
 <h2>The site</h2>
 
+!["an old railway sign, reading 'Warning "]({{ site.baseurl }}/images/stop_look_listen_crop.jpg)
+
 {{ site.description }}
 
 <h2>Me</h2>
