@@ -30,7 +30,7 @@ disable_landing_page: true
 
 author:
   name: 'Steve Bannister'
-  email: steve.bannister@hey.com
+#  email: steve.bannister@hey.com
   mastodon: milgrim@mas.to
 #  github_username: milgrim2023
   instagram: bikebadger
