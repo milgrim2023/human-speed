@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Komoot Link Processor</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        #link-input { width: 100%; padding: 10px; margin-bottom: 10px; }
+        #output { 
+            background-color: #f4f4f4; 
+            padding: 10px; 
+            border: 1px solid #ddd; 
+            min-height: 100px; 
+            white-space: pre-wrap; 
+            word-wrap: break-word;
+        }
+        #copy-btn, #process-btn, #save-btn {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            margin-top: 10px;
+            margin-right: 10px;
+        }
+        #preview-image { max-width: 100%; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Komoot Link Processor</h1>
+    <input type="text" id="link-input" placeholder="Paste Komoot href link here">
+    <button id="process-btn" onclick="processLink()">Process Link</button>
+    <div id="output"></div>
+    <button id="copy-btn" onclick="copyOutput()">Copy Markdown</button>
+    <img id="preview-image" style="display:none;">
+
+    <script crossorigin="anonymous">
+        let currentImageUrl = '';
+
+        function processLink() {
+            const outputDiv = document.getElementById('output');
+            const previewImage = document.getElementById('preview-image');
+            const linkInput = document.getElementById('link-input');
+            
+            try {
+                const hrefLink = linkInput.value;
+                
+                // Extract href
+                const hrefMatch = hrefLink.match(/href="([^"]+)"/);
+                if (!hrefMatch) {
+                    throw new Error("Could not extract href");
+                }
+                const cleanHref = hrefMatch[1];
+
+                // Extract image URL
+                const imageUrlMatch = hrefLink.match(/src="([^"]+)"/);
+                if (!imageUrlMatch) {
+                    throw new Error("Could not extract image URL");
+                }
+                currentImageUrl = imageUrlMatch[1];
+
+                // Extract tour ID and get current date
+                const tourIdMatch = cleanHref.match(/tour\/(\d+)/);
+                const tourId = tourIdMatch ? tourIdMatch[1] : 'Tour';
+                const currentDate = new Date().toISOString().split('T')[0];
+
+                // Set preview image
+                previewImage.src = currentImageUrl;
+                previewImage.style.display = 'block';
+
+                // Generate markdown with Jekyll front matter
+                const markdown = `---
+layout: post
+categories: ride
+title: "${tourId} Tour"
+date: 
+---
+
+![Tour Image]({{ site.baseurl }}/images/tours/${currentDate}.png)
+
+[Journey on Komoot](${cleanHref})`;
+
+                outputDiv.textContent = markdown;
+
+            } catch (error) {
+                outputDiv.textContent = `Error: ${error.message}`;
+                previewImage.style.display = 'none';
+            }
+        }
+
+        function copyOutput() {
+            const outputDiv = document.getElementById('output');
+            navigator.clipboard.writeText(outputDiv.textContent)
+                .then(() => {
+                    alert('Markdown copied to clipboard!');
+                })
+                .catch(err => {
+                    console.error('Failed to copy: ', err);
+                });
+        }
+
+    </script>
+</body>
+</html>
