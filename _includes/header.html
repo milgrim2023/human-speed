@@ -78,7 +78,7 @@
 
               {% if site.author.instagram %}
               <script src="https://kit.fontawesome.com/87362795ee.js" crossorigin="anonymous"></script>
-              <!-- Mastodon -->
+              <!-- Instagran -->
               <li class="navigation__item">
                 <a href="https://instagram.com/{{ site.author.instagram }}" title="{{ site.author.instagram }} on Instagram" target="_blank">
                   <i class="fa-brands fa-instagram"></i>
@@ -86,6 +86,17 @@
                 </a>
               </li>
               {% endif %}
+
+              {% if site.author.signal %}
+              <script src="https://kit.fontawesome.com/87362795ee.js" crossorigin="anonymous"></script>
+              <!-- Instagran -->
+              <li class="navigation__item btn-image">
+                <a href="https://signal.me/#eu/xCj7oVpcFf4JBMpjcPAm-XsetEhldoanWQxo-LtMRCnCmQSWH_9F57M8jZo15vol" title="{{ site.author.signal}} on Signal" target="_blank">
+                  <img src="{{ site.baseurl }}/images/favicons/signal.svg" height="16" width="16">
+                  <span class="label">Signal</span>
+                </a>
+              </li>
+              {% endif %}              
 
               {% if site.author.twitter_username %}
               <!-- Twitter -->

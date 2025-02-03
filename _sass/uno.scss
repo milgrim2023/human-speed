@@ -1336,6 +1336,9 @@ hr {
 	.btn-tertiary:hover {
 		color: #737373;
 		border-color: #737373; }
+.btn-image {
+		filter: brightness(11.0) saturate(0%);
+	}
 
 .btn-large {
 	padding: 10px 24px;
