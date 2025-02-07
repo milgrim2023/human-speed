@@ -3,6 +3,8 @@ layout: post
 categories: ride
 title: My favourite ride to work
 date: 2025-01-29
+tags: Bike Cambridge
+categories: Rides
 ---
 
 This is my favourite ride to work (at the Amazon office in Station Square, Cambridge) from Burwell. It's not the fastest route, but is the most quiet/offroad without going completely off-track. It even has a bit of bonus gravel behind the new housing estate near the Newmarket Road Park and Ride. 
