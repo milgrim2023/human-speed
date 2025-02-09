@@ -3,6 +3,8 @@ layout: post
 title: About
 robots: noindex
 permalink: /about.html
+tags: 
+categories: Misc
 ---
 
 <h2>The site</h2>

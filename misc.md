@@ -3,6 +3,8 @@ layout: post
 title: Miscellaneous
 robots: noindex
 permalink: /misc.html
+tags: 
+Categories : Misc
 ---
 
 ![A view from the back of a ex-clipper yacht on a off-shore journey to Jamaica]({{ site.baseurl }}/images/ocean_speed_bar.jpg)
