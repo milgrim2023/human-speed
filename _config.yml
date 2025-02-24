@@ -19,11 +19,14 @@ short_description: >
   methods of travel give you time to notice details - the way light hits a tree, the 
   sounds of a neighborhood, the texture of the ocean.
 
+
+plugins: ['jekyll-paginate-v2']
+exclude: ['README.md', 'Gemfile', 'vendor', 'Gemfile.lock', 'screenshot.png', 'docker-compose.yml', 'humans.txt']
+
 url: 'https://www.human-speed.com/'
 
 baseurl: ''
 
-# google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 disable_landing_page: true
@@ -48,7 +51,20 @@ defaults:
 
 # Build settings
 destination: _site
-paginate: 10
+
+pagination: 
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  sort_field: 'date' 
+  sort_reverse: true
+  category: 'posts'
+
+collections:  
+  posts:  
+    output: true  
+    permalink: /blog/:year/:month/:title/ 
+
 permalink: /posts/:year/:title/
 markdown: kramdown
 highlighter: rouge
@@ -63,6 +79,3 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-
-plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'vendor', 'Gemfile.lock', 'screenshot.png', 'docker-compose.yml', 'humans.txt']

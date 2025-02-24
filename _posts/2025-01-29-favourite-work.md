@@ -2,7 +2,7 @@
 layout: post
 title: My favourite ride to work
 date: 2025-01-29
-categories: Rides
+categories: journeys
 tags: Bike Cambridge
 ---
 

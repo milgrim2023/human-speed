@@ -2,7 +2,7 @@
 layout: post
 title:  "Work in Progress"
 date:   2025-01-22 11:55:02 -0800
-categories: News 
+categories: thoughts 
 tags: Website
 ---
 

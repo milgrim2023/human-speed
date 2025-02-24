@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About
 robots: noindex
 permalink: /about.html
@@ -7,7 +7,6 @@ tags:
 categories: Misc
 ---
 
-<h2>The site</h2>
 
 ![an old railway sign, reading 'Warning, stop look & listen']({{ site.baseurl }}/images/stop_look_listen_crop.jpg)
 

@@ -1,13 +1,18 @@
 ---
 layout: default
+title: Thoughts
+permalink: /thoughts
 pagination: 
-  enabled: true
+    enabled: true
+    category: thoughts
 ---
-<h1>Everything</h1>
-<a href="https://maps.app.goo.gl/thHCSysh5KSpVR7q8" >
-<img src="/images/pepperpot.jpg" width=100% alt="Bike at St Catherines Oratory, locally known as the Pepperpot"> </a>
+<h1>{{ page.title }}</h1>
+<img src="/images/new_forest_path_bar.jpeg" width=100% alt="A path in the New Forest"> 
 <br><br>  
 <div class="main-post-list">
+
+  Interesting things that grab my attention.
+  <br><br>  
 
   <ol class="post-list">
     {% for post in paginator.posts %}
@@ -21,16 +26,14 @@ pagination:
             {% endif %}
         </div>
         <hr class="post-list__divider">
-      </li>
+        </li>  
     {% endfor %}
   </ol>
 
-  <hr class="post-list__divider ">
 
   {% if paginator.previous_page or paginator.next_page %}
-      {% include pagination.html %}
+      {% include pagination_t.html %}
   {% endif %}
 
   <a class="hidden" rel="me" href="https://mas.to/@milgrim">Mastodon</a> 
-  
-</div>
+</div>  
