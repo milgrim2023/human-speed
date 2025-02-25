@@ -10,13 +10,13 @@ This is my favourite ride to work (at the Amazon office in Station Square, Cambr
 
 ### Things to look out for  
 
-* Deer, hares, rabbits, and a lovely 3-legged dog along the fields around Commercial End 
+* Deer, hares, rabbits, and a lovely 3-legged dog along the fields around Commercial End
 * The sun rising across the fields as you ride to Stow Cum Quy
 * The raven family just after the A14 underpass
-* Woodland gravel where you leat expect it 
-* Cows and sheep on the meadows in Cambridge 
+* Woodland gravel where you leat expect it
+* Cows and sheep on the meadows in Cambridge
 
-![Tour Image]({{ site.baseurl }}/images/posts/2025-01-29-komoot.png)
+![Tour Image]({{ site.baseurl }}/images/posts/2025-01-29-komoot.jpg)
 
 [Journey on Komoot](https://www.komoot.com/tour/2033994984?share_token=af8Vecpde8lza6Ec50DSMx8JB6MSCzWo7UYPJR6glW4lzrjJuz&ref=profile)
 
