@@ -1167,9 +1167,9 @@ hr {
 	box-shadow: none; }
 
 .post img {
-	max-width: 100%;
-	float: center;
-	margin: 0 20px 10px 0;
+	display: block;
+	max-width: 98%;
+	margin: 0 auto;
 	border-radius: 3px;
  	text-align: center; }
 	
