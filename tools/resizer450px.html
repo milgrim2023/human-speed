@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Resizer & Downloader</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        
+        .drop-zone {
+            border: 3px dashed #ccc;
+            border-radius: 10px;
+            padding: 30px;
+            text-align: center;
+            margin: 20px 0;
+            background-color: #f9f9f9;
+            transition: all 0.3s;
+        }
+        
+        .drop-zone.highlight {
+            border-color: #4285f4;
+            background-color: #e8f0fe;
+        }
+        
+        .drop-zone p {
+            font-size: 18px;
+            color: #666;
+        }
+        
+        #preview {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 20px 0;
+        }
+        
+        .thumbnail-container {
+            position: relative;
+            width: 120px;
+        }
+        
+        .thumbnail {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        .file-name {
+            font-size: 12px;
+            word-break: break-all;
+            margin-top: 5px;
+        }
+        
+        button {
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-right: 10px;
+            transition: background-color 0.3s;
+        }
+        
+        button:hover {
+            background-color: #3367d6;
+        }
+        
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 20px;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            margin: 10px 0;
+            overflow: hidden;
+            display: none;
+        }
+        
+        .progress {
+            height: 100%;
+            background-color: #4285f4;
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+        
+        .status {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Image Resizer & Downloader</h1>
+    <p>Drag and drop JPEG images to resize them to max 450px width and download as a ZIP file.</p>
+    
+    <div class="drop-zone" id="dropZone">
+        <p>Drag & drop JPEG files here<br>or<br>Click to select files</p>
+        <input type="file" id="fileInput" multiple accept=".jpg,.jpeg" style="display: none;">
+    </div>
+    
+    <div class="progress-bar">
+        <div class="progress" id="progress"></div>
+    </div>
+    <div class="status" id="status"></div>
+    
+    <div id="preview"></div>
+    
+    <button id="downloadBtn" disabled>Download as ZIP</button>
+    <button id="clearBtn" disabled>Clear All</button>
+    
+    <!-- Import JSZip library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    
+    <script>
+        // DOM elements
+        const dropZone = document.getElementById('dropZone');
+        const fileInput = document.getElementById('fileInput');
+        const preview = document.getElementById('preview');
+        const downloadBtn = document.getElementById('downloadBtn');
+        const clearBtn = document.getElementById('clearBtn');
+        const progressBar = document.querySelector('.progress-bar');
+        const progress = document.getElementById('progress');
+        const status = document.getElementById('status');
+        
+        // Store processed images
+        let processedImages = [];
+        
+        // Add event listeners
+        dropZone.addEventListener('click', () => fileInput.click());
+        fileInput.addEventListener('change', handleFiles);
+        dropZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropZone.classList.add('highlight');
+        });
+        dropZone.addEventListener('dragleave', () => {
+            dropZone.classList.remove('highlight');
+        });
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropZone.classList.remove('highlight');
+            
+            if (e.dataTransfer.files.length > 0) {
+                handleFiles({ target: { files: e.dataTransfer.files } });
+            }
+        });
+        
+        downloadBtn.addEventListener('click', createAndDownloadZip);
+        clearBtn.addEventListener('click', clearAll);
+        
+        // Handle the selected files
+        function handleFiles(e) {
+            const files = [...e.target.files];
+            const jpegFiles = files.filter(file => 
+                file.type === 'image/jpeg' || file.type === 'image/jpg'
+            );
+            
+            if (jpegFiles.length === 0) {
+                alert('Please select only JPEG files.');
+                return;
+            }
+            
+            processFiles(jpegFiles);
+        }
+        
+        // Process files - resize and store them
+        function processFiles(files) {
+            showProgress(true);
+            status.textContent = 'Processing images...';
+            
+            let processed = 0;
+            const totalFiles = files.length;
+            
+            files.forEach(file => {
+                const reader = new FileReader();
+                
+                reader.onload = function(e) {
+                    const img = new Image();
+                    
+                    img.onload = function() {
+                        // Create canvas for resizing
+                        const canvas = document.createElement('canvas');
+                        const ctx = canvas.getContext('2d');
+                        
+                        // Calculate new dimensions (max width 450px)
+                        let width = img.width;
+                        let height = img.height;
+                        
+                        if (width > 450) {
+                            height = (height * 450) / width;
+                            width = 450;
+                        }
+                        
+                        // Set canvas dimensions and draw resized image
+                        canvas.width = width;
+                        canvas.height = height;
+                        ctx.drawImage(img, 0, 0, width, height);
+                        
+                        // Get resized image as blob
+                        canvas.toBlob(function(blob) {
+                            // Store processed image
+                            processedImages.push({
+                                name: file.name,
+                                blob: blob
+                            });
+                            
+                            // Create thumbnail preview
+                            const thumbnailContainer = document.createElement('div');
+                            thumbnailContainer.className = 'thumbnail-container';
+                            
+                            const thumbnail = document.createElement('img');
+                            thumbnail.className = 'thumbnail';
+                            thumbnail.src = URL.createObjectURL(blob);
+                            
+                            const fileName = document.createElement('div');
+                            fileName.className = 'file-name';
+                            fileName.textContent = file.name;
+                            
+                            thumbnailContainer.appendChild(thumbnail);
+                            thumbnailContainer.appendChild(fileName);
+                            preview.appendChild(thumbnailContainer);
+                            
+                            // Update progress
+                            processed++;
+                            updateProgress(processed / totalFiles * 100);
+                            
+                            // Check if all files are processed
+                            if (processed === totalFiles) {
+                                downloadBtn.disabled = false;
+                                clearBtn.disabled = false;
+                                status.textContent = `Processed ${processed} images. Ready to download.`;
+                                setTimeout(() => showProgress(false), 500);
+                            }
+                        }, 'image/jpeg', 0.9);
+                    };
+                    
+                    img.src = e.target.result;
+                };
+                
+                reader.readAsDataURL(file);
+            });
+        }
+        
+        // Create ZIP file and trigger download
+        function createAndDownloadZip() {
+            if (processedImages.length === 0) {
+                alert('No images to download');
+                return;
+            }
+            
+            showProgress(true);
+            status.textContent = 'Creating ZIP file...';
+            
+            const zip = new JSZip();
+            const imgFolder = zip.folder("resized_images");
+            
+            // Add all processed images to ZIP
+            processedImages.forEach((image, index) => {
+                imgFolder.file(image.name, image.blob);
+                updateProgress((index + 1) / processedImages.length * 100);
+            });
+            
+            // Generate the ZIP file
+            zip.generateAsync({type: "blob"})
+                .then(function(content) {
+                    // Create download link
+                    const downloadLink = document.createElement("a");
+                    downloadLink.href = URL.createObjectURL(content);
+                    downloadLink.download = "resized_images.zip";
+                    document.body.appendChild(downloadLink);
+                    downloadLink.click();
+                    document.body.removeChild(downloadLink);
+                    
+                    status.textContent = "ZIP file downloaded successfully!";
+                    setTimeout(() => showProgress(false), 500);
+                })
+                .catch(function(error) {
+                    console.error("Error creating ZIP:", error);
+                    status.textContent = "Error creating ZIP file!";
+                    showProgress(false);
+                });
+        }
+        
+        // Clear all images and reset
+        function clearAll() {
+            processedImages = [];
+            preview.innerHTML = '';
+            downloadBtn.disabled = true;
+            clearBtn.disabled = true;
+            status.textContent = '';
+            showProgress(false);
+        }
+        
+        // Show/hide progress bar
+        function showProgress(show) {
+            progressBar.style.display = show ? 'block' : 'none';
+            if (show) {
+                updateProgress(0);
+            }
+        }
+        
+        // Update progress bar
+        function updateProgress(percent) {
+            progress.style.width = `${percent}%`;
+        }
+    </script>
+</body>
+</html>
