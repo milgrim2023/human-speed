@@ -6,7 +6,7 @@ categories: journeys
 tags: Bike Cambridge
 ---
 
-This is my favourite ride to work (at the Amazon office in Station Square, Cambridge) from Burwell. It's not the fastest route, but is the most quiet/offroad without going completely off-track. It even has a bit of bonus gravel behind the new housing estate near the Newmarket Road Park and Ride. 
+This is my favourite ride to work (at the Amazon office in Station Square, Cambridge) from Burwell. It's not the fastest route, but is the most quiet/offroad without going completely off-track. It even has a bit of bonus gravel behind the new housing estate near the Newmarket Road Park and Ride.
 
 ### Things to look out for  
 
@@ -28,7 +28,7 @@ The route begins at the top of Reach Road, which you follow all the way to Reach
 
 The cycle path is a narrow, shared-use path which you join as the road forks at the end of the village. While it runs alongside a 60 mph main road and can be quite noisy, thankfully it's only a few hundred metres before you take the first right onto Abbey Lane. This turn through Commercial End avoids Swaffham Bullbeck, where the dual-use path stops and things get messy, even in a 30 mph zone.
 
-Continuing straight down the 'hill' on Abbey Lane, then straight on, onto Fenn Lane, which takes you round and left onto White Droveway. This short and quiet loop takes you to the shared-use path, again along the noisy B102, leading down to Lode. 
+Continuing straight down the 'hill' on Abbey Lane, then straight on, onto Fenn Lane, which takes you round and left onto White Droveway. This short and quiet loop takes you to the shared-use path, again along the noisy B102, leading down to Lode.
 
 ### Lode - Stow Cum Quy
 
@@ -38,7 +38,7 @@ You're a little less than halfway now as we enter Stow Cum Quy, leaving the cycl
 
 Just before the first set of traffic lights, turn left. This road leads (and is signposted) to the Quy Mill Hotel but also leads to the underpass underneath the A14. The road leading to the underpass is a bit rough and the underpass itself can be muddy, so take a little care. As you emerge from the underpass, you'll pass a few houses. Take a moment to greet the many ravens that collect around the bird feeder on the right.
 
-### Quy - Fen Ditton 
+### Quy - Fen Ditton
 
 Turn right onto the cycle path that runs alongside Newmarket Road (A1303). Climb the small hill, cross High Ditch Road and continue towards Cambridge, following the path round the back of the big roundabout, descending and then climbing again. You'll have Cambridge Airport on your left, with landing lights visible in the fields to your right.
 
@@ -46,11 +46,11 @@ When you get near the top of the hill, you'll reach a public bridleway signposte
 
 At the end of the gravel path, turn right onto the cycle path into Fen Ditton. Cross the road at the traffic lights visible to your left, then double back and turn left onto Cambridge's off-road cycle paths. After the first section, wave at the horses, you'll encounter a grassy triangle — watch for cyclists joining from the right. At the triangle's base, turn right and follow the path around and across a cattle grid.
 
-### Fen Ditton - Coldham's Common 
+### Fen Ditton - Coldham's Common
 
 You're now on Ditton Meadows, and on the other side of the meadow is the River Cam with its rowers and canal boats. Ride along this path, then take the first cattle grid on your left, cross it and turn right. This takes you along to and under the A1134, past the Cambridge United football stadium, beneath the railway track and along to Coldham's Common. You'll often see cows and sheep along the common (if they have not yet been chased off after centuries of grazing).
 
-### Coldham's Common - Cambrige Station 
+### Coldham's Common - Cambrige Station
 
 At the end of the Coldham's Common track, you're now into the city proper. You're back on relatively quiet roads to get to the station. Cross over and onto Cromwell Road, climbing the hill to the restricted-entry roundabout. Cyclists can exit onto either Cromwell Road or Catherine Street to reach Mill Road. Bikes are free to ride in either direction on both roads, but Cromwell Road is preferable because cars follow that direction to Mill Road.
 
