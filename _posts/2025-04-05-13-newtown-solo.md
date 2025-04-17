@@ -52,6 +52,9 @@ The wind was much lower and had shifted such that it was mostly a broad reach. Y
 
 ![Back from Newtown]({{site-url}}/images/back-from-newtown.png)
 
+
+![Track from Newtown]({{site-url}}/images/route-newtown-cowes.jpg)
+
 Right until I hit Cowes harbour when the wind shifted and rose, making it a fast final mile. Then it was sails down and back into the Medina, navigating the tricky flood tide currents inside the harbour made more difficult by the lack of power from the prop, but I navigated it safely. 
 
 Getting on to the dock was less dramatic than leaving, the flood tide meant that I could pass the entrance to my H pontoon, turn around into the current then slowly ferry glide forwards into the berth. I was stupid and rushed the final approach, going too straight in, which lifted my fenders above the pontoon. No damage done, the wood is smooth and I was going very slowly. Then it was just time to tie up and leave Luicice to head back home. 
