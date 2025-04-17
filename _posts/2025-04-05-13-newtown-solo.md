@@ -6,21 +6,21 @@ categories: journeys
 tags: Sailing IoW
 ---
 
-Time for a confession. It's been a ridiculously long time since I took Lucice (our [Sadler 26][sadler]) out for a sail. The last time Elpie and I tried, we had a nightmare getting off the dock. Embarrassingly caught out by a strong ebb tide and Lucice's reluctance to go backwards in a straight line to begin with. We decided not to continue. This time though, I was sensible, I waited for the slack, just before high tide which would also give me the Solent current to carry me west to [Newtown Creek][newtown] once I exited the marina.
+Time for a confession. It's been a ridiculously long time since I took Lucice (our [Sadler 26][sadler]) out for a sail. The last time Elpie and I tried, we had a nightmare getting off the dock. Embarrassingly caught out by a strong ebb tide and Lucice's reluctance to go backwards in a straight line to begin with. We decided not to continue. This time though, I was sensible, I waited for the slack water just before high tide, which would also give me the Solent current to carry me west to [Newtown Creek][newtown] once I exited the marina.
 
 So the tide was fine but there was a stiff breeze blowing me off my dock. I am moored on the east bank of the Medina with Lucice berthed bow-in, port-side to, pointing out to sea as can be seen in the image below.
 
 ![On the dock]({{site-url}}/images/lucice-at-rest.jpg)
 
-The location is conveniently right in front of The [Lifeboat][lifeboat]'s beer garden for the maximum audience. Lucice also has a heavy prop-walk[^1] to starboard, and she's been in the water 6 months since her last hull clean. So the prop, not at optimal efficiency, does like to drag hard to starboard, and backwards with much less speed.
+The location is conveniently right in front of The [Lifeboat][lifeboat]'s beer garden for the maximum audience. Lucice also has a heavy prop-walk[^1] to starboard, and she's been in the water 6 months since her last hull clean. So the growth on the prop, giving less than optimal efficiency, does like to drag hard to starboard, and backwards with much less speed than normal.
 
-In an easterly wind that's fine, the stern is pulled to starboard, the bow gets pushed to port by the wind and I can motor forward out of the marina nicely. Not so much when there's a wind blowing onto the near shore. This however is 20-20 knowledge/practice. I *should* have known this, but thought I could get away with it, the lack of steerage in reverse at the back of my mind.
+In an easterly wind that's fine, the stern is pulled to starboard, the bow gets pushed to port by the wind and I can motor forward out of the marina nicely. Not so much when there's a wind blowing onto the near shore. This however is 20-20 knowledge/practice. I *should* have known this, but thought I could get away with it. At the back of my mind was the lack of steerage in reverse, making me prefer going out forwards into the wind.
 
-What this resulted in was ~10mins of me faffing around in the channel: trying to turn the boat into the wind, then losing track of which way to turn the rudder, and finally realising what to do butlosing confidence that she'd actually make it out of the channel without hitting the boats behind me. Eventually I managed to kind of reverse ferry glide out of the channel and into the river proper.
+What this all resulted in was ~10mins of me faffing around in the channel: first trying and failing to turn the boat into the wind, then losing track of which way to turn the rudder to do what I wanted, and finally realising what to do, but losing confidence that she'd actually make it out of the channel without hitting the boats behind me. Eventually I managed to kind of reverse ferry glide out of the channel, and into the river proper.
 
-That's a long-winded way to say I had a bit of a nightmare getting out to sea. However, no boats were harmed in the production of this blog.
+That's a long-winded way to say I had a bit of a nightmare getting out of the marina. However, no boats were harmed in the production of this blog.
 
-I motored slowly down the Medina, my weed and barnacle-encrusted bottom slowing me to 3knots at 2200rpm, across the chain ferry and into the Cowes Harbour and then the Solent. The wind was definitely stronger out here. I turned to windward, and put up the main with the first reef, I fell off pointing west to get down to Newtown, pulled out the genoa and immediately realised I had too much sail up, I moved to the second reef, pulled in more of the genoa and set off. Checking [SolentMet][bramble], the measured wind was a F5, 17knots gusting 25knots.
+I motored slowly down the Medina, my weed and barnacle-encrusted bottom slowing me to 3knots at 2200rpm, crossing the chain ferry and into Cowes Harbour and then the Solent. The wind was definitely stronger out here. I turned to windward, and put up the main with the first reef, I fell off pointing west to get down to Newtown, pulled out the genoa and immediately realised I had too much sail up, I moved to the second reef, pulled in more of the genoa and set off. Checking [SolentMet][bramble], the measured wind was F5, 17knots gusting 25knots.
 
 ![Sails Up]({{site-url}}/images/sails-up-newtown.jpg)
 
@@ -28,9 +28,9 @@ The wind was against the tide making it choppier, and as I got into deeper water
 
 ![Track]({{site-url}}/images/route-to-newtown.png)
 
-I was a little nervous going into Newtown Creek as the entrance is narrow and shallow at the sides. I'd timed it however for high tide or just after and in the end it was fairly obvious where to go and using the navigation software showing my position I avoided any shallow areas. The creek is naturally very protected and even though there was still a lot of wind, the swell was nonexistent.
+I was a little nervous going into Newtown Creek as the entrance is narrow, and shallow at the sides. I'd timed it however for high tide or just after and in the end it was fairly obvious where to go and using the navigation software showing my position I avoided any shallow areas. The creek is naturally very protected and even though there was still a lot of wind, the swell was nonexistent in there.
 
-I could see several boats already on the mooring balls and chose a free one. I prepared a line running from the cleat on the bow, outside the boat and back into the cockpit. Approaching the mooring ball into the wind I failed to keep enough speed and the wind blew me off, I quickly circled around and came in for a second attempt, this time smoothly bringing the ball alongside, hooking the pennant and passing my line through and tying it off. As we drifted back with the wind the pennant was pulled along the line until it reached the bow and we were secure.  
+I could see several boats already on the mooring balls and chose a free one. I prepared a line running from a cleat on the bow, outside the boat and back into the cockpit. Approaching the mooring ball into the wind I failed to keep enough speed and the wind blew me off course. I quickly circled around and came in for a second attempt, this time smoothly bringing the ball alongside, hooking the pennant and passing my line through and tying it off. As I drifted back with the wind the pennant was pulled along the line until it reached the bow and I was secure.  
 
 ![Moored]({{site-url}}/images/moored2.png)
 
