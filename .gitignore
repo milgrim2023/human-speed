@@ -7,3 +7,4 @@ vendor
 .python-version
 pyproject.toml
 uv.lock
+settings.json
