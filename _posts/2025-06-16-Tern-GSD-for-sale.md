@@ -36,7 +36,7 @@ With the dual batteries and other accessories I'm looking for ~£3750 and am ope
 - Four piston Magura MT5 hydraulic brakes with 180mm rotors
 - Abus wheel lock - same keys as the batteries
 - Tested capacity load of 200kg - including bike, accessories and riders 
-    - Note: all that strength does come with a weight penalty, at ~35kg she's definitely "big-boned". 
+    - Note: all that strength does come with a weight penalty of around ~35kg, but with a little thought and care definitely manageable.  
 - Accessories 
     - Transporteur Rack Front
     - Tern GSD Shortbed Tray Rear (not fitted)
