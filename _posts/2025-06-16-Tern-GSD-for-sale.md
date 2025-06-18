@@ -6,17 +6,17 @@ categories: thoughts
 tags: Bike ForSale
 ---
 ## Time to say goodbye
-Well, it's time to say goodbye to my beloved Tern GSD. She was a great car replacement whilst I was still working. She helped me get to work ([12 miles each way]({{site-url}}/blog/2025/01/favourite-work/)) a few times a week, always within +/- 5 minutes. Thanks to the electric motor, this was without regard to wind direction, my fitness, or how tired I was that day.
+Well, it's time to say goodbye to my beloved Tern GSD. The bike was a great car replacement whilst I was still working. The GSD helped me get to work ([12 miles each way]({{site-url}}/blog/2025/01/favourite-work/)) a few times a week, always within +/- 5 minutes. Thanks to the electric motor, this was without regard to wind direction, my fitness, or how tired I was that day.
 
 ![]({{ site.baseurl }}/images/bikesale-77.jpg)
 
-She competes well in the [#carryshitolympics](https://www.mas.to/tags/carryshitolympics), and with the big bucket bags is incredibly easy to load, and easy to keep contents dry/safe when the roll-top is engaged. Her party trick of standing upright for storage saved space in the garage, and on the train she's only as long as a normal bike.  Maintenance has been easy with the belt drive and Enviolo hub gear. 
+The Tern competes extremely well in the [#carryshitolympics](https://www.mas.to/tags/carryshitolympics). With the big bucket bags the bike is incredibly easy to load, and simple to keep contents dry/safe when the roll-top is engaged. The party trick of standing upright for storage saved space in the garage, and on the train it is only as long as a normal bike.  Maintenance has been easy with the belt drive and Enviolo hub gear. 
 
-Wait, do I really want to sell her? [\*](#yes)
+Wait, do I really want to sell this magnificent machine? [\*](#yes)
 
-Enough of the eulogy, here are the details. There are photos below, but if you want to zoom in to higher resolution images then please go [here][photos]. 
+Enough of the eulogy, here are the details. There are photos below, but if you want to zoom in to higher resolution images then please find them [here][photos]. 
 
-With the dual batteries and other accessories I'm looking for ~£3750 and am open to offers from families who can make good use of her. 
+With the dual batteries and other accessories I'm looking for ~£3750 and am open to offers from families who can make good use of a GSD. 
 
 ## 2023 Tern GSD S00
 
@@ -56,17 +56,17 @@ Front view - showing the light, front rack and the width of the double-wide rack
 Side view showing the beefy brakes, lock stand, dual batteries and the folded cargo bag. 
 
 ![]({{ site.baseurl }}/images/bikesale-80.jpg)
-4685 miles on the clock, the service indicator is on, her last service was ~200 miles ago - nothing for this bike. 
+4685 miles on the clock, the service indicator is on, the last service was ~200 miles ago - nothing for this bike. 
 
 ![]({{ site.baseurl }}/images/bikesale-83.jpg)
 Upgraded shifter with the cute indicator, see this [video][video] for a demonstration (newer version).
 
 
 ![]({{ site.baseurl }}/images/bikesale-88.jpg)
-In her storage position, handlebars folded. 
+In the storage position, handlebars folded. 
 
 ![]({{ site.baseurl }}/images/bikesale-86.jpg)
-Another view of her in storage mode. 
+Another view in storage mode. 
 
 ![]({{ site.baseurl }}/images/bikesale-87.jpg)
 The Enviolo hub and Gates belt drive 
