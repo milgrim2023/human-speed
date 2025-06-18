@@ -6,7 +6,7 @@ categories: thoughts
 tags: Bike ForSale
 ---
 ## Time to say goodbye
-Well, it's time to say goodbye to my beloved Tern GSD. The bike was a great car replacement whilst I was still working. The GSD helped me get to work ([12 miles each way]({{site-url}}/blog/2025/01/favourite-work/)) a few times a week, always within +/- 5 minutes. Thanks to the electric motor, this was without regard to wind direction, my fitness, or how tired I was that day.
+Well, it's time to say goodbye to my beloved Tern GSD. The bike was a great car replacement whilst I was still working. The trusty GSD helped me get to work ([12 miles each way]({{site-url}}/blog/2025/01/favourite-work/)) a few times a week, always within +/- 5 minutes. Thanks to the electric motor, this was without regard to wind direction, my fitness, or how tired I was that day.
 
 ![]({{ site.baseurl }}/images/bikesale-77.jpg)
 
