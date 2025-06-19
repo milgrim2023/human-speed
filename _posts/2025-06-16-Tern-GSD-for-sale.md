@@ -25,6 +25,8 @@ With the dual batteries and other accessories I'm looking for ~£3750 and am ope
     - walk assist
 - 2x 500Wh batteries for a total of 1000Wh
     - I ride in Sport mostly and get 60-70 miles between charges, but this will depend on your terrain (and effort :-) ).  
+- Additional Bosch fast charger
+    - Leave one where you might need it if you find you need a bit more juice, or charge both batteries at the same time. 
 - Tern Valo Direct, 190 lumen front light
     - always on rear light with brake light feature
 - Atlas locking stand (with the extenders making it very stable)
