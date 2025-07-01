@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Tern GSD S00 for sale"
+title:  "SOLD: Tern GSD S00 for sale"
 date:   2025-06-17 19:55:02 -0000
 categories: thoughts 
 tags: Bike ForSale
 ---
+
+**Update:** I've sold my GSD. Happy that it's gone to a family who can make good use of it. Sad to see it go. 
+
 ## Time to say goodbye
 Well, it's time to say goodbye to my beloved Tern GSD. The trusty GSD helped me get to work ([12 miles each way]({{site-url}}/blog/2025/01/favourite-work/)) a few times a week, always within +/- 5 minutes. Thanks to the electric motor, this was without regard to wind direction, my fitness, or how tired I was that day.
 
