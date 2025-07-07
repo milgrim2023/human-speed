@@ -14,6 +14,8 @@ We then had a safety briefing, followed by Mark springing off the dock by going 
 
 ![]({{ site.baseurl }}/images/sailingtolymington.jpg)
 
+![]({{ site.baseurl }}/images/sailingtolymington-group.jpg)
+
 When we got near to Lymington we tried to furl away the genoa, but it got stuck halfway in with what looked like a wrap inside the drum that prevented the re-furling. After a couple of failed attempts to clear the wrap, we pointed to wind and dropped the genoa on to the deck. The main quickly followed and I followed the channel into Lymington harbour and brought us alongside the Dan Bran pontoon. The wind and tide were both favorable and docking was simple.
 
 ![]({{ site.baseurl }}/images/danbran.jpg)
