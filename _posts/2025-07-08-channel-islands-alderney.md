@@ -6,7 +6,7 @@ categories: journeys
 tags: Sailing ChannelIslands
 ---
 
-Well I didn't really have an early night as I'd hoped, finishing yesterday's [blog]({{ site.baseurl}}/blog/2025/07/channel-islands-day1/) at 2300. Hugo came in just as I was finishing, having had a few drinks with his best man, a decision that would haunt him later. With everyone else volunteering to get up to leave at 0300, I decided to keep out of the way and stay in my warm sleeping bag. In the end with the clanging around, and engine noise, followed by chop as we exited the Solent, I don't think I actually slept but at least got some rest. I got up at just after 0400 to see the Needles starting to disappear into the distance and the sun beginning to rise an hour or so later.
+Well I didn't really have an early night as I'd hoped, finishing yesterday's [blog]({{ site.baseurl}}/blog/2025/07/channel-islands-day1/) at 2300. Hugo came in just as I was finishing, having had a late catch-up with his best man, a decision that would haunt him later. With everyone else volunteering to get up to leave at 0300, I decided to keep out of the way and stay in my warm sleeping bag. In the end with the clanging around, and engine noise, followed by chop as we exited the Solent, I don't think I actually slept but at least got some rest. I got up at just after 0400 to see the Needles starting to disappear into the distance and the sun beginning to rise an hour or so later.
 
 ![]({{ site.baseurl }}/images/sayingbyetotheneedles.jpg)
 
