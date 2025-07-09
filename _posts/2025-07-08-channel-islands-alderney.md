@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Channel Islands trip - day 2 - Alderney"
-date:   2025-07-07 09:30:00 -0000
+date:   2025-07-08 09:30:00 -0000
 categories: journeys
 tags: Sailing ChannelIslands
 ---
@@ -32,9 +32,9 @@ Once we were all stowed away it was time to call the water taxi and go ashore. W
 
 ![]({{ site.baseurl }}/images/prettybraye.jpg)
 
-We first grabbed some refreshing drinks at [The Moorings][moorings] before getting some snacks for the boat and then working our way up the steep hill into St Anne's. A lot of the shops and cafes/pubs were closed or not doing food so we ambled along taking in the sights and then walking back down towards the beach. On the way another friendly local in a car stopped and asked us if we needed help. We didn't, but might have given a different answer if he'd asked at the bottom of the hill. 
+We first grabbed some refreshing drinks at [The Moorings][moorings] before getting some snacks for the boat and then working our way up the steep hill into St Anne's. A lot of the shops and cafes/pubs were closed or not doing food so we ambled along taking in the sights and then walking back down towards the beach. On the way another friendly local in a car stopped and asked us if we needed help. We didn't, but might have given a different answer if he'd asked at the bottom of the hill.
 
-We stopped for a drink at the [Braye Beach Bar][bbb] (part of a hotel) and made good use of the facilities before heading down to the lovely sandy beach for a swim. I got to the water first but the chill of the water and the heat of the sun turned me into a wimp and Elpie went for a swim while I hesitated, before finally having a quick swim and getting out promptly.  
+When we returned we stopped for a drink at the [Braye Beach Bar][bbb] (part of a hotel) and made good use of the facilities before heading down to the lovely sandy beach for a swim. I got to the water first but the chill of the water and the heat of the sun turned me into a wimp and Elpie went for a swim while I hesitated, before finally having a quick swim and getting out promptly.  
 
 We dried off in the sun and agreed to meet the rest of the crew for fish and chips at the [Braye Chippy][bchippy]. We wandered back looking at some of the history of the island in the Second World War. The food was good and we sat outside in the sun which was nice.
 
