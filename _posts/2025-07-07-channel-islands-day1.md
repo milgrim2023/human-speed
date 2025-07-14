@@ -24,9 +24,9 @@ When we got near to Lymington we tried to furl away the genoa, but it got stuck 
 
 ![]({{ site.baseurl }}/images/precisiondocked.jpg)
 
-Hugo then disassembled the furler to get access to the winding. After fully unwinding, clearing the wrap then re-wrapping before reassembling the furler, reattaching the sail, then furling the sail everything was complete. A lot of work for a small problem. 
+Hugo then disassembled the furler to get access to the winding. After fully unwinding, clearing the wrap then re-wrapping before reassembling the furler, reattaching the sail, then furling the sail everything was complete. A lot of work for a small problem.
 
-After that, a simple lunch and we went to explore the charming town of Lymington. 
+After that, a simple lunch and we went to explore the charming town of Lymington.
 
 ![]({{ site.baseurl }}/images/lymington7725.jpg)
 
@@ -35,7 +35,6 @@ Then dinner at [The Haven][haven], good selection of fish dishes followed by an 
 ![]({{ site.baseurl }}/images/sunset-lymington7725.jpg)
 
 [Next day]({{site-url}}/blog/2025/07/channel-islands-alderney/)
-
 
 [salty]: https://saltysailing.co.uk
 [precision]: https://www.saltysailing.co.uk/sailing

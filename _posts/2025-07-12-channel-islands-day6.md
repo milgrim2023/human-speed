@@ -28,9 +28,9 @@ As we got closer we got some great views of the Needles, passing closely as we p
 
 ![]({{ site.baseurl }}/images/lighthouse.jpg)
 
-The day ended with me writing this blog, watching the sunset's colours fade from the sky but reflecting magically off the small waves. We bob gently up and down with the sound of the seabirds calling, and water splashing off the hull. Surrounded by the cliffs of Alum Bay. It couldn't be more perfect.
-
 ![]({{ site.baseurl }}/images/alum-cliffs.jpg)
+
+The day ended with me writing this blog, watching the sunset's colours fade from the sky but reflecting magically off the small waves. We bob gently up and down with the sound of the seabirds calling, and water splashing off the hull. Surrounded by the cliffs of Alum Bay. It couldn't be more perfect.
 
 ![]({{ site.baseurl }}/images/sunset-alum.jpg)
 
