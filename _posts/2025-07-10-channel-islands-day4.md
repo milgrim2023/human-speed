@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Small Islands are Human-Sized"
+title:  "Channel Islands - Small Islands are Human-Sized"
 date:   2025-07-10 09:30:00 -0000
 categories: journeys
 tags: Bike ChannelIslands
@@ -39,6 +39,8 @@ Pizza was the order of the night, and we went to an Italian restaurant called [P
 Then it was off for a game or two of pool. We first tried the Tiki bar which has 4 tables. I was very excited about the pool and Tiki drink combination but luckily (the music was **awful**) all the tables were taken. Oddly, above the tiki bar is another pool hall and we went there. Hugo got some tokens for the pool table. Somewhat weirdly, we never quite worked out why we didn't have to pay for the tokens, and we even had a couple of games of darts which we didn't pay for either. The drinks didn't seem **that** expensive, but whatever. We played "winner stays on",  Mark won the first game, bringing out his misspent university powers against Hugo, then Elpie miraculously beat Mark, Suzanne beat Elpie (she potted the black), Suzanne beat me (I potted the black), then Hugo beat Suzanne.
 
 Then it was time to go back to the boat for a well-earned sleep. An 0800 start tomorrow as we head to Sark before starting the trip back to the Solent on Saturday.
+
+[Previous day]({{site-url}}/blog/2025/07/channel-islands-guernsey/) | [Next day]({{site-url}}/blog/2025/07/channel-islands-jersey-sark-alderney/)
 
 [ddy]: https://dandycoffeeshop.com/
 [lou]: https://www.tripadvisor.co.uk/Restaurant_Review-g551614-d2146679-Reviews-Cafe_Louise-St_Martin_Jersey_Channel_Islands.html

@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Channel Islands trip - day 2 - Alderney"
+title:  "Channel Islands trip - Lymington to Alderney"
 date:   2025-07-08 09:30:00 -0000
 categories: journeys
 tags: Sailing ChannelIslands
 ---
 
 Well I didn't really have an early night as I'd hoped, finishing yesterday's [blog]({{ site.baseurl}}/blog/2025/07/channel-islands-day1/) at 2300. Hugo came in just as I was finishing, having had a late catch-up with his best man, a decision that would haunt him later. With everyone else volunteering to get up to leave at 0300, I decided to keep out of the way and stay in my warm sleeping bag. In the end with the clanging around, and engine noise, followed by chop as we exited the Solent, I don't think I actually slept but at least got some rest. I got up at just after 0400 to see the Needles starting to disappear into the distance and the sun beginning to rise an hour or so later.
+
+![]({{ site.baseurl }}/images/lymington-to-alderney.jpg)
 
 ![]({{ site.baseurl }}/images/sayingbyetotheneedles.jpg)
 
@@ -39,6 +41,8 @@ When we returned we stopped for a drink at the [Braye Beach Bar][bbb] (part of a
 We dried off in the sun and agreed to meet the rest of the crew for fish and chips at the [Braye Chippy][bchippy]. We wandered back looking at some of the history of the island in the Second World War. The food was good and we sat outside in the sun which was nice.
 
 Then it was back to the boat for a chill in the sun, and this time, definitely an early night.
+
+[Previous day]({{site-url}}/blog/2025/07/channel-islands-day1/) | [Next day]({{site-url}}/blog/2025/07/channel-islands-guernsey/)
 
 [brayeh]: https://www.visitalderney.com/travel/sail-to-alderney/
 [bbb]: https://www.visitalderney.com/see-do/food-drink/braye-beach-hotel/

@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Channel Islands trip - day 1"
+title:  "Channel Islands trip - Cowes to Lymington"
 date:   2025-07-07 09:30:00 -0000
 categories: journeys
 tags: Sailing IoW
 ---
 
 This week we're off for a trip with [Salty Sailing][salty] across the channel to the Channel Islands. The trip is one we wanted to do in order to gain experience crossing the channel before doing it on our own.  
+
+![]({{ site.baseurl }}/images/cowes-to-lymington.jpg)
 
 We met at 09:30 down at the boat, [Precision][precision], and met Mark and Suzanne who will be along for the trip, as well as Hugo who's the skipper and owner of Salty Sailing. We had a quick planning session, looking at the tides, the winds and best options for the trip. We decided on heading from Cowes to Lymington today. Lymington is protected from the strong northerly winds, and places us closer to the Needles so with an early (3-4am) start we can make the most of what could be a 12-hour journey to Alderney. The option of going to Portland would have put the wind directly behind us, giving us a harder to maintain, and slower course.
 
@@ -31,6 +33,8 @@ After that, a simple lunch and we went to explore the charming town of Lymington
 Then dinner at [The Haven][haven], good selection of fish dishes followed by an early night so that we can get a 3am start!
 
 ![]({{ site.baseurl }}/images/sunset-lymington7725.jpg)
+
+[Next day]({{site-url}}/blog/2025/07/channel-islands-alderney/)
 
 
 [salty]: https://saltysailing.co.uk

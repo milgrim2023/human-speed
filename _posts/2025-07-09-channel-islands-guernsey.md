@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Channel Islands trip - day 3 - Aldernay-Jersey"
+title:  "Channel Islands trip - Alderney to Jersey"
 date:   2025-07-09 09:30:00 -0000
 categories: journeys
 tags: Sailing ChannelIslands
 ---
 
 Premium sleep achieved! Asleep by 2130, didn't wake til 0700 and didn't get out of bed until 0730. I slept like the proverbial baby, soothed by the gentle rocking of the boat. The sun was shining, the skies were blue and the wind light. A beautiful way to start the day.
+
+![]({{ site.baseurl }}/images/alderney-to-jersey.jpg)
 
 ![]({{ site.baseurl }}/images/welcometoalderney.jpg)
 
@@ -49,5 +51,7 @@ Then we went for dinner at Hugo's. Respectable food, and good conversation. Then
 ![]({{ site.baseurl }}/images/blindpig2.mp4)
 <-->
 Elpie joined for a couple of drinks and then we headed back to the boat - with a failed attempt to find somewhere to grab a coke and snacks before bed. All good though and it;s a bit of a late one, but no rush in the morning.
+
+[Previous day]({{site-url}}/blog/2025/07/channel-islands-alderney/) | [Next day]({{site-url}}/blog/2025/07/channel-islands-day4/)
 
 [bp]: http://www.cesoirjersey.com/theblindpig/
