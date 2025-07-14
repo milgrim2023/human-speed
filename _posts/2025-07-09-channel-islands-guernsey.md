@@ -44,7 +44,7 @@ After checking into the marina, and using the nice facilities. We split up and E
 
 ![]({{ site.baseurl }}/images/patientseagull.jpg)
 
-Then we went for dinner at Hugo's. Respectable food, and good conversation. Then we split again. Suzanne heading back to the boat with Elpie going back for a shower, Hugo and Mark off to see 29 Years Later, and I headed to a speakeasy called [Blind Pig][bp]. Like all good speakeasy style bars it was out of the way and hard to find. A video on Google Maps helped (cheating) but on arriving the door was seemingly locked. A couple I'd followed in called the bar and we were allowed in. I think the locked door was a mistake. Very good cocktails and the barman was good company.
+Then we went for dinner at Hugo's. Respectable food, and good conversation. Then we split again. Suzanne heading back to the boat with Elpie going back for a shower, Hugo and Mark off to see 28 Years Later, and I headed to a speakeasy called [Blind Pig][bp]. Like all good speakeasy style bars it was out of the way and hard to find. A video on Google Maps helped (cheating) but on arriving the door was seemingly locked. A couple I'd followed in called the bar and we were allowed in. I think the locked door was a mistake. Very good cocktails and the barman was good company.
 <!-->
 ![]({{ site.baseurl }}/images/blindpig2.mp4)
 <-->
