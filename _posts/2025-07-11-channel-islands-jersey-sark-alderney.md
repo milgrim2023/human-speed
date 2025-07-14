@@ -45,6 +45,6 @@ Then it was time to head back to meet at the monument above the bay where we wer
 
 The journey to Alderney was blessed with good winds and we sailed the first part of the way back under sail alone, only starting the motor when the wind dropped. We approached Braye Harbour from the west this time, crossing through the Swinge which can be treacherous at the wrong time, but was easy enough at this point in the tide. 
 
-Fortunately the weather gods were kind to us. Braye Harbour was super calm and we easily picked up a mooring buoy. Hugo cooked a fantastic meal and we relaxed on board, watching the sun set. We all chose an early night after such a packed day.
+Fortunately the weather gods were kind to us. Braye Harbour was super calm and we easily picked up a mooring buoy. Elpie and Hugo cooked a fantastic meal and we relaxed on board, watching the sun set. We all chose an early night after such a packed day.
 
 ![]({{ site.baseurl }}/images/sunset-alderney.jpg)
