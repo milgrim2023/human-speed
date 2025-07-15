@@ -26,6 +26,6 @@ After a couple of hours we'd made it to Cowes, dropped the sails and motored in 
 
 It was a fantastic trip. All kinds of weather, great islands to visit - though more time is needed to explore properly, and experience gained on channel crossing, multi-tide navigation, furler-fixing and general sailing. I'll take some time and write up my general thoughts later. Today I need some R&R.
 
-[Previous day]({{site-url}}/blog/2025/07/channel-islands-day6/) 
+[Previous day]({{site-url}}/blog/2025/07/channel-islands-day6/) | [Wrap-up thoughts]({{site-url}}/blog/2025/07/channel-islands-day6/)
 
 <!-- | [Next day]({{site-url}}/blog/2025/07/channel-islands-day6/) -->
