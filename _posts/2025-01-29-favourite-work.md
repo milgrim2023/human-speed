@@ -13,7 +13,7 @@ This is my favourite ride to work (at the Amazon office in Station Square, Cambr
 * Deer, hares, rabbits, and a lovely 3-legged dog along the fields around Commercial End
 * The sun rising across the fields as you ride to Stow Cum Quy
 * The raven family just after the A14 underpass
-* Woodland gravel where you leat expect it
+* Woodland gravel where you least expect it
 * Cows and sheep on the meadows in Cambridge
 
 ![Tour Image]({{ site.baseurl }}/images/posts/2025-01-29-komoot.jpg)
@@ -26,7 +26,7 @@ The route begins at the top of Reach Road, which you follow all the way to Reach
 
 ### Swaffham Prior - Commercial End - Lode
 
-The cycle path is a narrow, shared-use path which you join as the road forks at the end of the village. While it runs alongside a 60 mph main road and can be quite noisy, thankfully it's only a few hundred metres before you take the first right onto Abbey Lane. This turn through Commercial End avoids Swaffham Bullbeck, where the dual-use path stops and things get messy, even in a 30 mph zone.
+The cycle path is a narrow, shared-use path which you join as the road forks at the end of the village. While it runs alongside a 60 mph main road and can be quite noisy, thankfully it's only a few hundred meters before you take the first right onto Abbey Lane. This turn through Commercial End avoids Swaffham Bullbeck, where the dual-use path stops and things get messy, even in a 30 mph zone.
 
 Continuing straight down the 'hill' on Abbey Lane, then straight on, onto Fenn Lane, which takes you round and left onto White Droveway. This short and quiet loop takes you to the shared-use path, again along the noisy B102, leading down to Lode.
 
