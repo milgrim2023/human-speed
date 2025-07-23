@@ -14,7 +14,7 @@ Breakfast done and a wander round the town complete, I decided to replace the fr
 
 Several people came over to see if I was ok, had the right tools, or knew that there was a good local bike shop nearby. Genuinely super lovely people here. Then I had a quick chat with a guy who'd just moved to the area from Germany. He was admiring my upside-down, front-wheel off, bike and was familiar with Canyon - the German brand who make my bike.
 
-Eventually, after downloading the service manual, then working out I could put the old pads back in and use those, to more evenly (and safely) press the pistons back, I finally got the brakes sorted. It seems SRAM brakes require approx 2 discs to be inserted and tightened against, without the pads, to allow them to reset their positions.
+Eventually, after downloading the service manual, then working out I could put the old pads back in and use those, to more evenly (and safely) press the pistons back, I finally got the brakes sorted. It seems SRAM brakes require approximately 2 discs to be inserted and tightened against without the pads, to allow them to reset their positions.
 
 That done, I took the bike over to the local bike shop to get some more disc pads in case I need to replace the rear as well. I only carry one set of pads – foolish on an extended trip. I rode over still wearing my sandals and a knocking that I'd previously noticed late in the ride yesterday seemed to have become much worse. That was weird. I had assumed it was my cleat loosening on my shoes but that couldn't be the case. I looked at the pedal. No, that was fine. Wait! My crank is wobbling, but the bolts seem tight.
 
