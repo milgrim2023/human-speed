@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Peak District - day 2"
+title:  "Peak District - day 3"
 date:   2025-07-22 09:30:00 -0000
 categories: journeys
 tags: Bike PeakDistrict
@@ -36,6 +36,6 @@ I'm short on photos (again) so here's one of me in [the pub][bullshead] looking 
 
 ![]({{ site.baseurl }}/images/steve-pub.jpg)
 
-Full of charge, as much as I can be, I headed back to the campsite for an early night and early start tomorrow. I have a campsite booked halfway along the route and hope I can get a full charge there, I've booked an electric pitch and just need to find a lightweight hook-up unit for use in future trips like this.
+Full of charge, as much as I can be, I headed back to the campsite for an early night and early start tomorrow. I have a campsite booked halfway along the route to my brother's wedding and hope I can get a full charge there, I've booked an electric pitch and just need to find a lightweight hook-up unit for use in future trips like this.
 
 [bullshead]: http://www.thebullsheadmonyash.co.uk/
