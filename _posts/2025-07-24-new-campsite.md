@@ -52,5 +52,5 @@ After washing up, I spent some time just chilling and catching up with Mastodon 
 
 ![]({{ site.baseurl }}/images/fire.jpg)
 
-[green]:
-[smithy]: 
+[green]: https://www.pitchup.com/campsites/England/North_West/Cheshire/Knutsford/greenfields-campsite/
+[smithy]: https://oldsmithymonyash.com/
