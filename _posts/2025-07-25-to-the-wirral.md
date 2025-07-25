@@ -18,7 +18,7 @@ The legs were tired and I badly needed coffee and breakfast. The roads were good
 
 ![]({{ site.baseurl }}/images/dexter.jpg)
 
-Over the next hour I pedaled myself into a reasonable state of the legs, I could get to 80% but if I spent too long at 100% I felt it. I was making progress, if not at the same speed as the second half of yesterday. Then it all turned into a bit of a slog. Komoot first led me alongside a busy A-road for far too long, then redeemed itself for 10km or so, before **really** causing a problem.  
+Over the next hour I pedaled my legs into a reasonable state, I could get to 80% but if I spent too long at 100% I felt it. I was making progress, if not at the same speed as the second half of yesterday. Then it all turned into a bit of a slog. Komoot first led me alongside a busy A-road for far too long, then redeemed itself for 10km or so, before **really** causing a problem.  
 
 ![]({{ site.baseurl }}/images/dualcarriageway.jpg)
 
@@ -34,7 +34,7 @@ So, off came the rear panniers, then I lifted the remaining 20kg of awkward e-bi
 
 ![]({{ site.baseurl }}/images/riverweaver.jpg)
 
-Then it was a beautiful walk along the River Weaver, with paddle-boarders and kayakers serenely gliding down the river. For me this took some mental agility to appreciate as I fought my way along a moderately overgrown single-track path with brambles, and nettles and seemingly every other stinging or scratching plant native to these isles. Eventually though I got to the second kissing-gate and fought my way through that one and out onto a nice gravel path. A gravel path that quickly disappeared into a possible tractor flatten grass path along the river. I followed this, then turned up the hill to rejoin the Komoot route – free at last!
+Then it was a beautiful walk along the River Weaver, with paddle-boarders and kayakers serenely gliding down the river. For me this took some mental agility to appreciate as I fought my way along a moderately overgrown single-track path with brambles, and nettles and seemingly every other stinging or scratching plant native to these isles. Eventually though I got to the second kissing-gate and fought my way through that one and out onto a nice gravel path. A gravel path that quickly disappeared into WHAT appeared to be a tractor-flattened grass path alongside the river. I followed this, then turned up the hill to rejoin the Komoot route – free at last!
 
 ![]({{ site.baseurl }}/images/backonroute.jpg)
 
@@ -42,7 +42,7 @@ Then it was a beautiful walk along the River Weaver, with paddle-boarders and ka
 
 Finally, I reached Frodsham, a town with some pretensions. Fancy cafes, restaurants, delis etc. on one street, and then slightly less salubrious shops around the corner. I had a coffee and multiple cakes at a very [nice place][whitmore]. I'd really wanted some lunch but cake was a good stand in, and the coffee good. I then walked a bit further in search of a water refill and a coke which I found at a Costa, before I could find an off-license or supermarket.
 
-After leaving Frodsham. I was quickly onto the National Cycle Network (NCN) route 5 which at this point runs along a pothole-ridden gravel path and through a wind-farm. Sadly, the turbines were not spinning, but maybe that's a good thing, as a headwind would have finished me off! 
+After leaving Frodsham, I was quickly onto the National Cycle Network (NCN) route 5 which at this point runs along a pothole-ridden gravel path and through a wind-farm. Sadly, the turbines were not spinning, but maybe that's a good thing, as a headwind would have finished me off!
 
 ![]({{ site.baseurl }}/images/windfarm3.jpg)
 
@@ -56,13 +56,13 @@ The NCN 5 runs to Chester though and soon dipped south of where I was heading, b
 
 ![]({{ site.baseurl }}/images/haha.jpg)
 
-I was still in some **very** industrial areas but in the right place it appeared. Then some confusion with some private-road signs and industrial gates that I had to go through but it *seems* like it was a valid through-road – or maybe it just was from the other end. Either way, I followed Komoot all the way to a big motorway junction, across it(!) and then into Vauxhall's Ellesmere Port depot. I was a little concerned at this point but spotted a sign saying "Cycle Way" so that must be ok, right? Nope, at the other side it was a locked gate. Cue a u-turn and replanning. I'd lost faith in Komoot's knowledge of this area and switched to Google Maps.
+I was still in some **very** industrial areas, but was in the right place. Then, some confusion with some private-road signs and industrial gates that I had to go through but it *seems* like it was a valid through-road – or maybe it just was from the other end. Either way, I followed Komoot all the way to a big motorway junction, across it(!) and then into Vauxhall's Ellesmere Port depot. I was a little concerned at this point but spotted a sign saying "Cycle Way" so that must be ok, right? Nope, at the other side it was a locked gate. Cue a u-turn and replanning. I'd lost faith in Komoot's knowledge of this area and switched to Google Maps.
 
-I stopped a few miles before the hotel, I found a pub that looked over the River Mersey – brown water, horrible grey/brown haze over the water, I miss the Isle of Wight views of the Solent – and got some food and a couple of drinks. Cider for the nerves, Pepsi for the caffeine and sugar. 
+I stopped a few miles before the hotel, finding a pub that looked over the River Mersey – brown water, horrible grey/brown haze over the water, I miss the Isle of Wight views of the Solent – and got some food and a couple of drinks. Cider for the nerves, Pepsi for the caffeine and sugar.
 
-![]({{ site.baseurl }}/images/rivermersey.jpg) 
+![]({{ site.baseurl }}/images/rivermersey.jpg)
 
-After some more industrial, busy, roads, I finally made it to [the hotel][village]. The hotel doesn't allow e-bikes in the rooms (meaning no recharging for the bike) but would allow analog bikes in which was something. A little frustrating as reputable brands are treated the same as low quality kits in the eyes of insurers at the moment. Hope that changes soon, I had the same problem at the work office.
+After some more industrial, busy, roads, I finally made it to [the hotel][village] around 1520, making the trip 6 hours including stops. The hotel doesn't allow e-bikes in the rooms (meaning no recharging for the bike) but would allow analog bikes in which was something. A little frustrating as reputable brands are treated the same as low quality kits in the eyes of insurers at the moment. Hope that changes soon, I had the same problem at the work office.
 
 Elpie and Megan arrived at 1920, roughly taking the same time as me, despite doing 3.3x the distance. I think I still had a better time, even with the nettle stings and industrial road anxiety.
 
