@@ -8,3 +8,4 @@ vendor
 pyproject.toml
 uv.lock
 settings.json
+.rubyversion

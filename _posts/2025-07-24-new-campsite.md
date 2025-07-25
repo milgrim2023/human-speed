@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peak District - day 4"
-date:   2025-07-22 09:30:00 -0000
+date:   2025-07-24 09:30:00 -0000
 categories: journeys
 tags: Bike PeakDistrict
 ---
